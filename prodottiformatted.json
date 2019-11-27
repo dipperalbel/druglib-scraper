@@ -1,0 +1,2627 @@
+{
+    "43353-272": {
+        "name": "fenofibrate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0074-3082": {
+        "name": "ombitasvir and paritaprevir and ritonavir",
+        "form": "KIT",
+        "route": null
+    },
+    "60951-700": {
+        "name": "oxycodone and acetaminophen",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0024-5521": {
+        "name": "zolpidem tartrate",
+        "form": "TABLET, COATED",
+        "route": "ORAL"
+    },
+    "10019-939": {
+        "name": "cyclophosphamide",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0264-7655": {
+        "name": "dextrose, sodium chloride, and potassium chloride",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "69339-124": {
+        "name": "diclofenac sodium and misoprostol",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "53808-0990": {
+        "name": "abacavir sulfate, lamivudine, and zidovudine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68151-0245": {
+        "name": "lithium carbonate",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "54868-0153": {
+        "name": "cephalexin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0904-5522": {
+        "name": "doxazosin",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "39328-106": {
+        "name": "prenatal with ferrous fum and folic acid",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16590-959": {
+        "name": "tolterodine tartrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0409-3507": {
+        "name": "imipenem and cilastatin",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "63323-322": {
+        "name": "imipenem and cilastatin sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0591-3750": {
+        "name": "losartan potassium and hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-3777": {
+        "name": "sumatriptan succinate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-3852": {
+        "name": "sumatriptan succinate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "61919-291": {
+        "name": "prednisolone",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "61919-505": {
+        "name": "lyrica",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59137-515": {
+        "name": "methotrexate",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "47781-147": {
+        "name": "gadopentetate dimeglumine",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "67544-534": {
+        "name": "lithium carbonate",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "42023-163": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0054-0269": {
+        "name": "letrozole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "55289-057": {
+        "name": "cephalexin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "50090-1800": {
+        "name": "brimonidine tartrate",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "67296-1123": {
+        "name": "levofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "60687-216": {
+        "name": "entecavir",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "66215-501": {
+        "name": "macitentan",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68001-266": {
+        "name": "fluorouracil",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0187-5102": {
+        "name": "pimecrolimus",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0187-5101": {
+        "name": "pimecrolimus",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0187-5100": {
+        "name": "pimecrolimus",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0187-5103": {
+        "name": "pimecrolimus",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0642-0096": {
+        "name": "vitamin a, ascorbic acid, vitamin d, .alpha.-tocopherol, thiamine mononitrate, riboflavin, niacin, pyridoxine hydrochloride, folic acid, cyanocobalamin, iodine, iron, magnesium, zinc, copper, doconexent, and docusate sodium",
+        "form": "KIT",
+        "route": null
+    },
+    "46708-183": {
+        "name": "linezolid",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "53217-193": {
+        "name": "prednisolone",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "43598-392": {
+        "name": "melphalan hydrochloride",
+        "form": "KIT",
+        "route": "INTRAVENOUS"
+    },
+    "50383-859": {
+        "name": "megestrol acetate",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "55154-2375": {
+        "name": "lidocaine hydrochloride anhydrous and epinephrine",
+        "form": "INJECTION, SOLUTION",
+        "route": "INFILTRATION"
+    },
+    "0069-0550": {
+        "name": "sunitinib malate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0069-0770": {
+        "name": "sunitinib malate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0069-0980": {
+        "name": "sunitinib malate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0069-0830": {
+        "name": "sunitinib malate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "54868-3157": {
+        "name": "dexamethasone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "23731-6051": {
+        "name": "anhydrous citric acid, dextrose monohydrate, and trisodium citrate dihydrate",
+        "form": "SOLUTION",
+        "route": "EXTRACORPOREAL"
+    },
+    "50436-6525": {
+        "name": "pregabalin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "61958-1802": {
+        "name": "ledipasvir and sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "25021-202": {
+        "name": "carboplatin",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "60760-069": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "62332-149": {
+        "name": "olmesartan medoxomil and hydrochlorothiazide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "49702-206": {
+        "name": "abacavir sulfate and lamivudine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "70934-068": {
+        "name": "ciprofloxacin",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "51004-2010": {
+        "name": "lidocaine hydrochloride and epinephrine bitartrate",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "57237-217": {
+        "name": "pioglitazone hydrochloride and metformin hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "57237-218": {
+        "name": "pioglitazone hydrochloride and metformin hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-6252": {
+        "name": "letrozole",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "60760-600": {
+        "name": "potassium chloride",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "21695-832": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0078-0393": {
+        "name": "basiliximab",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0078-0331": {
+        "name": "basiliximab",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "61958-2401": {
+        "name": "sofosbuvir, velpatasvir, and voxilaprevir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50383-042": {
+        "name": "prednisolone",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "42254-288": {
+        "name": "alcaftadine",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "0023-9211": {
+        "name": "brimonidine tartrate, timolol maleate",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "64980-387": {
+        "name": "irbesartan",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "64980-386": {
+        "name": "irbesartan",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "55695-026": {
+        "name": "pyrazinamide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "50090-0015": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "57664-683": {
+        "name": "linezolid",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "53808-0787": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "31722-338": {
+        "name": "naproxen",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "57844-324": {
+        "name": "fenofibrate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "70688-0502": {
+        "name": "mipomersen sodium",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "33261-621": {
+        "name": "divalproex sodium",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "55154-2305": {
+        "name": "mesalamine",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "54436-017": {
+        "name": "methotrexate",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "60505-0752": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "60505-6088": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0004-0245": {
+        "name": "saquinavir mesylate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0004-0244": {
+        "name": "saquinavir mesylate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0078-0594": {
+        "name": "everolimus",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0078-0620": {
+        "name": "everolimus",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0078-0626": {
+        "name": "everolimus",
+        "form": "TABLET, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "0078-0627": {
+        "name": "everolimus",
+        "form": "TABLET, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "52343-087": {
+        "name": "fluconazole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0942-6478": {
+        "name": "anticoagulant citrate phosphate dextrose (cpd) solution and adsol preservation solution",
+        "form": "KIT",
+        "route": null
+    },
+    "35356-828": {
+        "name": "oxycodone hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-0767": {
+        "name": "potassium chloride",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "0338-0663": {
+        "name": "potassium chloride, dextrose monohydrate and sodium chloride",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "43063-808": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0186-6040": {
+        "name": "esomeprazole sodium",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "53808-0361": {
+        "name": "doxazosin mesylate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "68071-1601": {
+        "name": "fenofibrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0093-0018": {
+        "name": "tolterodine tartrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0703-5720": {
+        "name": "docetaxel",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "52536-510": {
+        "name": "dextroamphetamine sulfate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0942-6482": {
+        "name": "anticoagulant citrate phosphate dextrose (cpd) solution and adsol preservation solution",
+        "form": "KIT",
+        "route": null
+    },
+    "63323-463": {
+        "name": "bupivacaine hydrochloride and epinephrine bitartrate",
+        "form": "INJECTION, SOLUTION",
+        "route": "PERINEURAL"
+    },
+    "0179-0149": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "52343-148": {
+        "name": "entecavir",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0173-0863": {
+        "name": "rosiglitazone maleate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "61314-547": {
+        "name": "latanoprost",
+        "form": "SOLUTION",
+        "route": "OPHTHALMIC"
+    },
+    "61958-2202": {
+        "name": "velpatasvir and sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0378-7012": {
+        "name": "olmesartan medoxomil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68788-8947": {
+        "name": "azithromycin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "55154-3935": {
+        "name": "tolterodine tartrate",
+        "form": "CAPSULE, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "63187-415": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "17478-324": {
+        "name": "zoledronic acid",
+        "form": "SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0078-0670": {
+        "name": "pazopanib hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "59572-402": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59572-405": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59572-410": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59572-415": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59572-420": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "59572-425": {
+        "name": "lenalidomide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "71335-0333": {
+        "name": "clonazepam",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0409-7338": {
+        "name": "ceftriaxone sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "67877-419": {
+        "name": "linezolid",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0009-5135": {
+        "name": "linezolid",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "12064-014": {
+        "name": "sumatriptan",
+        "form": "SPRAY",
+        "route": "NASAL"
+    },
+    "54868-5600": {
+        "name": "abacavir sulfate and lamivudine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0078-0417": {
+        "name": "everolimus",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0078-0415": {
+        "name": "everolimus",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "55154-8104": {
+        "name": "dronedarone",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "53217-299": {
+        "name": "cephalexin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "54868-6094": {
+        "name": "brimonidine tartrate",
+        "form": "SOLUTION",
+        "route": "OPHTHALMIC"
+    },
+    "55648-703": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "68382-649": {
+        "name": "mesalamine",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "69189-0383": {
+        "name": "cyclophosphamide",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "64764-301": {
+        "name": "pioglitazone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "10019-943": {
+        "name": "cyclophosphamide",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "10019-945": {
+        "name": "cyclophosphamide",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "17856-0949": {
+        "name": "megesterol acetate",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "67184-1006": {
+        "name": "ceftriaxone sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "50242-051": {
+        "name": "rituximab",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "50242-053": {
+        "name": "rituximab",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "58177-910": {
+        "name": "prednisolone",
+        "form": "SYRUP",
+        "route": "ORAL"
+    },
+    "0078-0671": {
+        "name": "lapatinib",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0781-3342": {
+        "name": "levofloxacin",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0078-0607": {
+        "name": "fingolimod hcl",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "31722-546": {
+        "name": "lithium carbonate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "43547-277": {
+        "name": "irbesartan",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "69097-399": {
+        "name": "zoledronic acid",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "68382-669": {
+        "name": "mycophenolate mofetil",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "62037-710": {
+        "name": "potassium chloride",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "21695-422": {
+        "name": "ciprofloxacin",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "49884-898": {
+        "name": "zolpidem tartrate sublingual",
+        "form": "TABLET",
+        "route": "SUBLINGUAL"
+    },
+    "10572-302": {
+        "name": "polyethylene glycol 3350, sodium chloride, sodium bicarbonate, potassium chloride",
+        "form": "POWDER, FOR SOLUTION",
+        "route": "ORAL"
+    },
+    "64370-421": {
+        "name": "fluorouracil",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "68180-655": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "68462-568": {
+        "name": "amlodipine and olmesartan medoxomil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "46708-151": {
+        "name": "olmesartan medoxomil and hydrochlorothiazide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "65162-844": {
+        "name": "capecitabine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0143-9856": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "63739-447": {
+        "name": "potassium chloride",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "13985-610": {
+        "name": "latanoprost",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "67546-111": {
+        "name": "nitazoxanide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "67546-212": {
+        "name": "nitazoxanide",
+        "form": "POWDER, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "54868-6089": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-6090": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "21695-111": {
+        "name": "methotrexate sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0004-1100": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0004-1101": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0703-4244": {
+        "name": "carboplatin",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0703-4239": {
+        "name": "carboplatin",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "50436-0022": {
+        "name": "levofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42023-167": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "43547-259": {
+        "name": "fluorouracil",
+        "form": "SOLUTION",
+        "route": "TOPICAL"
+    },
+    "67457-215": {
+        "name": "melphalan hydrochloride",
+        "form": "KIT",
+        "route": null
+    },
+    "54868-5461": {
+        "name": "zolpidem tartrate",
+        "form": "TABLET, COATED",
+        "route": "ORAL"
+    },
+    "54868-5426": {
+        "name": "zolpidem tartrate",
+        "form": "TABLET, COATED",
+        "route": "ORAL"
+    },
+    "50436-6733": {
+        "name": "hydrochlorothiazide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "49884-789": {
+        "name": "olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68071-4310": {
+        "name": "fenofibrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50242-108": {
+        "name": "rituximab and hyaluronidase",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "50242-109": {
+        "name": "rituximab and hyaluronidase",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "0942-6321": {
+        "name": "anticoagulant citrate phosphate dextrose adenine",
+        "form": "SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0004-0350": {
+        "name": "peginterferon alfa-2a",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "0004-0357": {
+        "name": "peginterferon alfa-2a",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "0004-0360": {
+        "name": "peginterferon alfa-2a",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "0004-0365": {
+        "name": "peginterferon alfa-2a",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "54458-866": {
+        "name": "pioglitazone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54458-864": {
+        "name": "pioglitazone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "69097-425": {
+        "name": "entecavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "46708-440": {
+        "name": "irbesartan",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0172-5033": {
+        "name": "lisinopril and hydrochlorothiazide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "45802-238": {
+        "name": "alogliptin benzoate and pioglitazone hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68083-191": {
+        "name": "carboplatin",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "68001-254": {
+        "name": "fluconazole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "64720-132": {
+        "name": "dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate and amphetamine sulfate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "68071-1863": {
+        "name": "fluconazole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63629-1724": {
+        "name": "ciprofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "65862-846": {
+        "name": "clozapine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "44567-703": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "54868-6287": {
+        "name": "brimonidine tartrate",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "69189-1202": {
+        "name": "linaclotide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "24236-687": {
+        "name": "pyrazinamide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "43353-345": {
+        "name": "sildenafil citrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42571-237": {
+        "name": "amlodipine and olmesartan medoxomil",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "59762-0033": {
+        "name": "sildenafil citrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "67457-195": {
+        "name": "melphalan hydrochloride",
+        "form": "KIT",
+        "route": null
+    },
+    "0955-1022": {
+        "name": "docetaxel",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "0078-0923": {
+        "name": "letrozole and ribociclib",
+        "form": "KIT",
+        "route": null
+    },
+    "0469-6501": {
+        "name": "regadenoson",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "65162-668": {
+        "name": "vitamin a acetate, .beta.-carotene, ascorbic acid, cholecalciferol, .alpha.-tocopherol acetate, dl-, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid, cyanocobalamin, calcium carbonate, ferrous fumarate, zinc oxide, cupric oxide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "52125-067": {
+        "name": "esomeprazole magnesium",
+        "form": "CAPSULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "0615-7554": {
+        "name": "divalproex sodium",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "63629-4181": {
+        "name": "pregabalin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "60687-138": {
+        "name": "pyrazinamide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "76126-054": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "67296-1230": {
+        "name": "pantoprazole sodium",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "16714-484": {
+        "name": "divalproex sodium",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "55111-646": {
+        "name": "letrozole",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-6457": {
+        "name": "irbesartan and hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "60687-282": {
+        "name": "azithromycin monohydrate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-4878": {
+        "name": "pimecrolimus",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "15370-104": {
+        "name": "vitamin a acetate, ascorbic acid, cholecalciferol, .alpha.-tocopherol, dl-, thiamine hydrochloride, riboflavin, niacinamide, pyridoxine hydrochloride, levomefolic acid, folic acid, cyanocobalamin, magnesium oxide, cupric sulfate, and sodium fluoride",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "15370-105": {
+        "name": "vitamin a acetate, ascorbic acid, cholecalciferol, .alpha.-tocopherol, dl-, thiamine hydrochloride, riboflavin, niacinamide, pyridoxine hydrochloride, levomefolic acid, folic acid, cyanocobalamin, magnesium oxide, cupric sulfate, and sodium fluoride",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "57319-347": {
+        "name": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+        "form": "SUSPENSION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "57664-241": {
+        "name": "clozapine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "57664-211": {
+        "name": "clozapine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16729-321": {
+        "name": "olmesartan medoxomil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0008-0844": {
+        "name": "pantoprazole sodium",
+        "form": "GRANULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "0517-0830": {
+        "name": "latanoprost",
+        "form": "SOLUTION",
+        "route": "OPHTHALMIC"
+    },
+    "50090-1177": {
+        "name": "losartan potassium and hydrochlorothiazide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16729-295": {
+        "name": "carboplatin",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "55545-1010": {
+        "name": "latanoprost",
+        "form": "SOLUTION",
+        "route": "OPHTHALMIC"
+    },
+    "53808-0205": {
+        "name": "mesalamine",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "54868-5864": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-6368": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "45802-098": {
+        "name": "mesalamine",
+        "form": "ENEMA",
+        "route": "RECTAL"
+    },
+    "54643-5647": {
+        "name": "asorbic acid, vitamin a palmitate, cholecalciferol, thiamine hydrochloride, riboflavin-5 phosphate sodium, pyridoxine hydrochloride, niacinamide, dexpanthenol, alpha-tocopherol acetate, vitamin k1, folic acid, biotin, cyanocobalamin",
+        "form": "KIT",
+        "route": null
+    },
+    "53808-0276": {
+        "name": "lopinavir and ritonavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "27437-106": {
+        "name": "nitazoxanide",
+        "form": "POWDER, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "33342-176": {
+        "name": "pioglitazole and metformin hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "50090-2277": {
+        "name": "azithromycin",
+        "form": "POWDER, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "57664-647": {
+        "name": "dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate, and amphetamine sulfate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-4767": {
+        "name": "doxazosin mesylate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0378-8628": {
+        "name": "fenofibrate",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "65597-117": {
+        "name": "olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "10019-098": {
+        "name": "ceftriaxone sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "50419-250": {
+        "name": "riociguat",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50419-251": {
+        "name": "riociguat",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50419-252": {
+        "name": "riociguat",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50419-253": {
+        "name": "riociguat",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50419-254": {
+        "name": "riociguat",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68788-9077": {
+        "name": "azithromycin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "61748-012": {
+        "name": "pyrazinamide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "51079-670": {
+        "name": "methotrexate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0074-0522": {
+        "name": "lopinavir and ritonavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0074-3956": {
+        "name": "lopinavir and ritonavir",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "54868-4143": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-5260": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "68084-801": {
+        "name": "mycophenolate mofetil",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "64406-008": {
+        "name": "natalizumab",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "21695-147": {
+        "name": "pioglitazone hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0555-0607": {
+        "name": "megestrol acetate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0069-0187": {
+        "name": "palbociclib",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0069-0188": {
+        "name": "palbociclib",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0069-0189": {
+        "name": "palbociclib",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0093-7490": {
+        "name": "linezolid",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "65862-634": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "65084-465": {
+        "name": "potassium chloride",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "0781-3240": {
+        "name": "ciprofloxacin",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "0781-2243": {
+        "name": "divalproex sodium",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0093-3012": {
+        "name": "clozapine",
+        "form": "TABLET, ORALLY DISINTEGRATING",
+        "route": "ORAL"
+    },
+    "0093-3086": {
+        "name": "clozapine",
+        "form": "TABLET, ORALLY DISINTEGRATING",
+        "route": "ORAL"
+    },
+    "0781-5316": {
+        "name": "zolpidem tartrate",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "61786-877": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0093-7617": {
+        "name": "olmesartan medoxomil and hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0074-6633": {
+        "name": "ritonavir",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "47781-200": {
+        "name": "melphalan usp, 2 mg",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0004-0260": {
+        "name": "mycophenolate mofetil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0093-5004": {
+        "name": "olmesartan medoxomil, amlodipine and hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "61958-1501": {
+        "name": "sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "65862-742": {
+        "name": "olmesartan medoxomil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "13107-070": {
+        "name": "dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "68084-041": {
+        "name": "misoprostol",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "10139-321": {
+        "name": "melphalan hydrochloride",
+        "form": "KIT",
+        "route": null
+    },
+    "42291-233": {
+        "name": "diclofenac sodium and misoprostol",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "57664-273": {
+        "name": "clonazepam",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "65862-841": {
+        "name": "entecavir",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0006-0270": {
+        "name": "alendronate sodium and cholecalciferol",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "25021-107": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0143-9519": {
+        "name": "methotrexate",
+        "form": "SOLUTION",
+        "route": "INTRA-ARTERIAL"
+    },
+    "0143-9517": {
+        "name": "methotrexate",
+        "form": "SOLUTION",
+        "route": "INTRA-ARTERIAL"
+    },
+    "65597-113": {
+        "name": "amlodipine besylate and olmesartan medoxomil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "63379-053": {
+        "name": "dolutegravir sodium, abacavir sulfate, lamivudine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50090-0521": {
+        "name": "pyrazinamide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "31722-918": {
+        "name": "oxycodone hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16714-467": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0023-9177": {
+        "name": "brimonidine tartrate",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "55154-2381": {
+        "name": "epinephrine",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0378-4024": {
+        "name": "doxazosin mesylate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "60505-6110": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "21695-277": {
+        "name": "pregabalin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "21695-664": {
+        "name": "pregabalin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "24510-140": {
+        "name": "oxycodone",
+        "form": "CAPSULE, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "33261-475": {
+        "name": "prednisolone",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "58468-0191": {
+        "name": "mipomersen sodium",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "57237-150": {
+        "name": "fluconazole",
+        "form": "POWDER, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "21695-551": {
+        "name": "cephalexin",
+        "form": "POWDER, FOR SUSPENSION",
+        "route": "ORAL"
+    },
+    "68071-4061": {
+        "name": "sumatriptan succinate u-d",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0078-0387": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "0078-0590": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "50090-0975": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "71335-0291": {
+        "name": "pantoprazole",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "55154-4225": {
+        "name": "pantoprazole sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "70786-0214": {
+        "name": "doxazosin",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-4690": {
+        "name": "brimonidine tartrate",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "54868-5376": {
+        "name": "rosiglitazone maleate and metformin hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-5262": {
+        "name": "rosiglitazone maleate and metformin hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "16714-469": {
+        "name": "clonazepam",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0187-3203": {
+        "name": "fluorouracil",
+        "form": "SOLUTION",
+        "route": "TOPICAL"
+    },
+    "54868-4635": {
+        "name": "esomeprazole magnesium",
+        "form": "CAPSULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "53217-231": {
+        "name": "dexamethasone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0054-8528": {
+        "name": "lithium carbonate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0054-8531": {
+        "name": "lithium carbonate",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "0143-9928": {
+        "name": "ciprofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54092-191": {
+        "name": "mesalamine",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "55154-4513": {
+        "name": "rosiglitazone maleate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "55154-4518": {
+        "name": "rosiglitazone maleate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "69189-5020": {
+        "name": "esomeprazole magnesium",
+        "form": "CAPSULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "60429-953": {
+        "name": "doxazosin mesylate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63323-961": {
+        "name": "zoledronic acid",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "55289-214": {
+        "name": "pregabalin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "60505-6104": {
+        "name": "ceftriaxone",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "39822-2200": {
+        "name": "docetaxel",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "60429-059": {
+        "name": "mycophenolate mofetil",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "55466-716": {
+        "name": "tolterodine tartrate",
+        "form": "CAPSULE, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "0591-3206": {
+        "name": "pioglitazone hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "66975-417": {
+        "name": "articaine hydrochloride and epinephrine",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "21695-163": {
+        "name": "divalproex sodium",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "54868-6254": {
+        "name": "latanoprost",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "0088-0576": {
+        "name": "rifampin, isoniazid and pyrazinamide",
+        "form": "TABLET, SUGAR COATED",
+        "route": "ORAL"
+    },
+    "67296-0372": {
+        "name": "levofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "69189-5421": {
+        "name": "pioglitazone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "57664-784": {
+        "name": "clonazepam",
+        "form": "TABLET, ORALLY DISINTEGRATING",
+        "route": "ORAL"
+    },
+    "68071-3093": {
+        "name": "levofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "35573-200": {
+        "name": "omega-3 fatty acids, thiamine mononitrate, riboflavin, pyridoxine hydrochloride, cyanocobalamin, folic acid, cholecalciferol, ascorbic acid, alpha-tocopherol, cupric sulfate anhydrous, zinc oxide, iron, and magnesium",
+        "form": "CAPSULE, LIQUID FILLED",
+        "route": "ORAL"
+    },
+    "59762-0800": {
+        "name": "tolterodine tartrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "55513-222": {
+        "name": "romiplostim",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "55513-221": {
+        "name": "romiplostim",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "42192-706": {
+        "name": "cholecalciferol, magnesium, boron, folic acid, pyridoxine, cyanocobalamin",
+        "form": "WAFER",
+        "route": "ORAL"
+    },
+    "52725-495": {
+        "name": "fenofibrate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63539-421": {
+        "name": "sildenafil citrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "61919-094": {
+        "name": "diclofenac sodium and misoprostol",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "10544-061": {
+        "name": "naproxen",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "55154-5897": {
+        "name": "levofloxacin",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "45963-686": {
+        "name": "melphalan hydrochloride",
+        "form": "KIT",
+        "route": "INTRAVENOUS"
+    },
+    "55289-582": {
+        "name": "dexamethasone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "43598-330": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "64980-509": {
+        "name": "dexamethasone",
+        "form": "ELIXIR",
+        "route": "ORAL"
+    },
+    "0378-4544": {
+        "name": "dextroamphetamine, amphetamine, dextroamphetamine, amphetamine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63323-772": {
+        "name": "letrozole",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "63187-813": {
+        "name": "sildenafil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "62559-152": {
+        "name": "oxycodone hydrochloride",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "0049-0114": {
+        "name": "anidulafungin",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0049-0116": {
+        "name": "anidulafungin",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "53808-1058": {
+        "name": "pantoprazole sodium",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "21695-092": {
+        "name": "esomeprazole magnesium",
+        "form": "CAPSULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "54868-2094": {
+        "name": "oxycodone and aspirin",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "62756-511": {
+        "name": "letrozole",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "49999-486": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42658-101": {
+        "name": "mycophenolate mofetil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "28105-421": {
+        "name": "fluorouracil",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0378-6689": {
+        "name": "pantoprazole sodium",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "0093-5787": {
+        "name": "entecavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42023-121": {
+        "name": "sumatriptan succinate",
+        "form": "INJECTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "58118-0123": {
+        "name": "hydrochlorothiazide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "68788-9290": {
+        "name": "diclofenac sodium and misoprostol",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "57902-249": {
+        "name": "asparaginase",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "43063-028": {
+        "name": "fluconazole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0006-3514": {
+        "name": "imipenem and cilastatin sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0006-3516": {
+        "name": "imipenem and cilastatin sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0006-3552": {
+        "name": "imipenem and cilastatin sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "10019-955": {
+        "name": "cyclophosphamide",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "10019-957": {
+        "name": "cyclophosphamide",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "63629-6799": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "65862-073": {
+        "name": "abacavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "43063-678": {
+        "name": "cephalexin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "71335-0288": {
+        "name": "sildenafil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "53808-0981": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-5249": {
+        "name": "rosiglitazone maleate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0378-0048": {
+        "name": "pioglitazone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63629-3243": {
+        "name": "misoprostol",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "67457-619": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0173-0874": {
+        "name": "fluticasone furoate",
+        "form": "POWDER",
+        "route": "RESPIRATORY (INHALATION)"
+    },
+    "0173-0876": {
+        "name": "fluticasone furoate",
+        "form": "POWDER",
+        "route": "RESPIRATORY (INHALATION)"
+    },
+    "63539-189": {
+        "name": "palbociclib",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "68071-4035": {
+        "name": "pioglitazone hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "70121-1221": {
+        "name": "docetaxel",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "70121-1222": {
+        "name": "docetaxel",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "55700-398": {
+        "name": "sildenafil",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "59676-570": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "59676-571": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "59676-572": {
+        "name": "etravirine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-1802": {
+        "name": "quinapril hydrochloride and hydrochlorothiazide",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "23155-293": {
+        "name": "lithium carbonate",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "0781-9327": {
+        "name": "ceftriaxone sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAMUSCULAR"
+    },
+    "66116-482": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "53808-0674": {
+        "name": "saquinavir mesylate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0013-8303": {
+        "name": "latanoprost",
+        "form": "SOLUTION",
+        "route": "OPHTHALMIC"
+    },
+    "55700-409": {
+        "name": "linaclotide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "63379-059": {
+        "name": "fluticasone furoate and vilanterol trifenatate",
+        "form": "POWDER",
+        "route": "RESPIRATORY (INHALATION)"
+    },
+    "50967-317": {
+        "name": "sodium ascorbate, cholecalciferol, di-alpha-tocopheryl acetate, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hcl, folic acid, cyanocobalamin, calcium formate, calcium carbonate, ferrous (ii) bis-glycinate chelate, potassium iodide, zinc oxide, choline bitartrate, with doconexent and icosapent",
+        "form": "KIT",
+        "route": null
+    },
+    "50419-188": {
+        "name": "gadopentetate dimeglumine",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "50268-152": {
+        "name": "cephalexin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "63739-456": {
+        "name": "epinephrine",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0074-4339": {
+        "name": "adalimumab",
+        "form": "KIT",
+        "route": null
+    },
+    "0074-9374": {
+        "name": "adalimumab",
+        "form": "KIT",
+        "route": null
+    },
+    "0074-0067": {
+        "name": "adalimumab",
+        "form": "KIT",
+        "route": null
+    },
+    "0074-1539": {
+        "name": "adalimumab",
+        "form": "KIT",
+        "route": null
+    },
+    "0074-0817": {
+        "name": "adalimumab",
+        "form": "KIT",
+        "route": null
+    },
+    "68071-2194": {
+        "name": "pravastatin sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16590-625": {
+        "name": "esomeprazole magnesium",
+        "form": "CAPSULE, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "52959-392": {
+        "name": "dexamethasone",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "57894-060": {
+        "name": "ustekinumab",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "57894-061": {
+        "name": "ustekinumab",
+        "form": "INJECTION, SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "57894-054": {
+        "name": "ustekinumab",
+        "form": "SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "0378-2512": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "69336-358": {
+        "name": "lexazin",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "0054-4603": {
+        "name": "megestrol acetate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0378-0472": {
+        "name": "divalproex sodium",
+        "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "16590-254": {
+        "name": "megestrol acetate",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "54868-6168": {
+        "name": "fluticasone furoate",
+        "form": "SPRAY, METERED",
+        "route": "NASAL"
+    },
+    "57884-3021": {
+        "name": "docetaxel",
+        "form": "INJECTION, SOLUTION, CONCENTRATE",
+        "route": "INTRAVENOUS"
+    },
+    "16729-388": {
+        "name": "entecavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0378-0860": {
+        "name": "clozapine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "51672-4062": {
+        "name": "fluorouracil",
+        "form": "SOLUTION",
+        "route": "TOPICAL"
+    },
+    "51079-721": {
+        "name": "mycophenolate mofetil",
+        "form": "CAPSULE",
+        "route": "ORAL"
+    },
+    "68258-1972": {
+        "name": "lopinavir and ritonavir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "47335-150": {
+        "name": "carboplatin",
+        "form": "INJECTION",
+        "route": "INTRAVENOUS"
+    },
+    "52959-303": {
+        "name": "valacyclovir hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0615-0170": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16590-935": {
+        "name": "clonazepam",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "16729-072": {
+        "name": "capecitabine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42291-167": {
+        "name": "capecitabine",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "60687-347": {
+        "name": "mesalamine",
+        "form": "TABLET, DELAYED RELEASE",
+        "route": "ORAL"
+    },
+    "61958-1801": {
+        "name": "ledipasvir and sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "12634-686": {
+        "name": "prednisolone",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "69189-3404": {
+        "name": "tolterodine tartrate",
+        "form": "CAPSULE, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "63629-3373": {
+        "name": "irbesartan",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0024-4142": {
+        "name": "dronedarone",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "54868-6294": {
+        "name": "alcaftadine",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "0023-4290": {
+        "name": "alcaftadine",
+        "form": "SOLUTION/ DROPS",
+        "route": "OPHTHALMIC"
+    },
+    "58406-435": {
+        "name": "etanercept",
+        "form": "SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "58406-445": {
+        "name": "etanercept",
+        "form": "SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "58406-425": {
+        "name": "etanercept",
+        "form": "KIT",
+        "route": null
+    },
+    "58406-455": {
+        "name": "etanercept",
+        "form": "SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "58406-456": {
+        "name": "etanercept",
+        "form": "SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "58406-446": {
+        "name": "etanercept",
+        "form": "SOLUTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "50268-337": {
+        "name": "fluconazole",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "55154-9389": {
+        "name": "imipenem and cilastatin sodium",
+        "form": "INJECTION, POWDER, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "55289-310": {
+        "name": "azithromycin dihydrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "43353-617": {
+        "name": "zolpidem tartrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "65162-777": {
+        "name": "linezolid",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63481-229": {
+        "name": "sumatriptan",
+        "form": "INJECTION",
+        "route": "SUBCUTANEOUS"
+    },
+    "61958-1502": {
+        "name": "sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "55150-283": {
+        "name": "zoledronic acid",
+        "form": "INJECTION, SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "68727-100": {
+        "name": "sodium oxybate",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "0093-0834": {
+        "name": "clonazepam",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "70518-0336": {
+        "name": "azithromycin dihydrate",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50090-0874": {
+        "name": "abacavir sulfate and lamivudine",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "63187-150": {
+        "name": "ciprofloxacin hydrochloride",
+        "form": "SOLUTION/ DROPS",
+        "route": "TOPICAL"
+    },
+    "49884-230": {
+        "name": "megestrol acetate",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "0456-1201": {
+        "name": "linaclotide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "0456-1202": {
+        "name": "linaclotide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "0456-1203": {
+        "name": "linaclotide",
+        "form": "CAPSULE, GELATIN COATED",
+        "route": "ORAL"
+    },
+    "53746-193": {
+        "name": "naproxen sodium",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "61703-421": {
+        "name": "ascorbic acid, retinol, ergocalciferol, thiamine hydrochloride, riboflavin 5-phosphate sodium, pyridoxine hydrochloride, niacinamide, dexpanthenol, .alpha.-tocopherol acetate, dl-, biotin, folic acid, cyanocobalamin, and phytonadione",
+        "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+        "route": "INTRAVENOUS"
+    },
+    "61958-2201": {
+        "name": "velpatasvir and sofosbuvir",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "66116-369": {
+        "name": "sulfamethoxazole and trimethoprim",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "54868-3086": {
+        "name": "dronedarone",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "0781-2335": {
+        "name": "dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, and amphetamine sulfate",
+        "form": "CAPSULE, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "69189-0243": {
+        "name": "nitazoxanide",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0178-0813": {
+        "name": "iron, folic acid, cyanocobalamin, ascorbic acid, and docusate sodium",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "42254-138": {
+        "name": "cetirizine hydrochloride",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "63868-947": {
+        "name": "diphenhydramine hydrochloride, zinc acetate",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "55910-974": {
+        "name": "cetirizine hydrochloride",
+        "form": "LIQUID",
+        "route": "ORAL"
+    },
+    "62011-0017": {
+        "name": "naproxen sodium",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "70000-0123": {
+        "name": "nicotine polacrilex",
+        "form": "GUM, CHEWING",
+        "route": "ORAL"
+    },
+    "0135-0076": {
+        "name": "calcium carbonate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "37808-059": {
+        "name": "calcium carbonate",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "69189-1049": {
+        "name": "calcium carbonate",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "0363-0184": {
+        "name": "antacid",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "0135-0616": {
+        "name": "fluticasone furoate",
+        "form": "SPRAY, METERED",
+        "route": "NASAL"
+    },
+    "37012-089": {
+        "name": "diphenhydramine hydrochloride and zinc acetate",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "0536-1023": {
+        "name": "naproxen sodium tablet, coated",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "51079-597": {
+        "name": "cetirizine hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "69842-950": {
+        "name": "miconazole nitrate",
+        "form": "KIT",
+        "route": "TOPICAL"
+    },
+    "52642-228": {
+        "name": "calcium carbonate",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "49348-306": {
+        "name": "naproxen sodium",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "70000-0195": {
+        "name": "dextromethorphan polistirex",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "0135-0615": {
+        "name": "fluticasone furoate",
+        "form": "SPRAY, METERED",
+        "route": "NASAL"
+    },
+    "54838-552": {
+        "name": "cetirizine hydrochloride",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "67091-277": {
+        "name": "diphenhydramine hydrochloride, and zinc acetate",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "37808-199": {
+        "name": "miconazole nitrate",
+        "form": "KIT",
+        "route": null
+    },
+    "41520-916": {
+        "name": "miconazole nitrate",
+        "form": "KIT",
+        "route": null
+    },
+    "0395-0400": {
+        "name": "pramoxine hydrochloride and zinc acetate",
+        "form": "LOTION",
+        "route": "TOPICAL"
+    },
+    "30142-888": {
+        "name": "acetaminophen, dextromethorphan hbr, guaifenesin, phenylephrine hcl",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "50090-1077": {
+        "name": "guaifenesin and dextromethorphan hydrobromide",
+        "form": "TABLET, EXTENDED RELEASE",
+        "route": "ORAL"
+    },
+    "30142-040": {
+        "name": "famotidine, calcium carbonate and magnesium hydroxide",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "0113-0170": {
+        "name": "nicotine polacrilex",
+        "form": "GUM, CHEWING",
+        "route": "ORAL"
+    },
+    "17714-025": {
+        "name": "calcium carbonate",
+        "form": "TABLET",
+        "route": "ORAL"
+    },
+    "0363-0011": {
+        "name": "calcium carbonate",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "0363-0709": {
+        "name": "nicotine polacrilex",
+        "form": "GUM, CHEWING",
+        "route": "ORAL"
+    },
+    "49035-622": {
+        "name": "diphenhydramine hydrochloride, zinc acetate",
+        "form": "CREAM",
+        "route": "TOPICAL"
+    },
+    "68391-309": {
+        "name": "nicotine polacrilex",
+        "form": "GUM, CHEWING",
+        "route": "ORAL"
+    },
+    "68016-134": {
+        "name": "guaifenesin, dextromethorphan hydrobromide, phenylephrine hydrochloride",
+        "form": "LIQUID",
+        "route": "ORAL"
+    },
+    "68084-994": {
+        "name": "calcium carbonate",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "30142-199": {
+        "name": "miconazole nitrate",
+        "form": "KIT",
+        "route": null
+    },
+    "60505-2632": {
+        "name": "cetirizine hydrochloride",
+        "form": "TABLET, FILM COATED",
+        "route": "ORAL"
+    },
+    "70000-0186": {
+        "name": "cetirizine hydrochloride",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "0363-3380": {
+        "name": "dextromethorphan hbr, guaifenesin",
+        "form": "LIQUID",
+        "route": "ORAL"
+    },
+    "43598-445": {
+        "name": "nicotine",
+        "form": "KIT",
+        "route": "TRANSDERMAL"
+    },
+    "36800-920": {
+        "name": "acetaminophen, dextromethorphan hbr, doxylamine succinate, phenylephrine hcl",
+        "form": "SOLUTION",
+        "route": "ORAL"
+    },
+    "37205-583": {
+        "name": "miconazole nitrate",
+        "form": "KIT",
+        "route": "VAGINAL"
+    },
+    "23667-808": {
+        "name": "miconazole nitrate",
+        "form": "SPRAY",
+        "route": "TOPICAL"
+    },
+    "41167-1003": {
+        "name": "calcium carbonate and magnesium hydroxide",
+        "form": "TABLET, CHEWABLE",
+        "route": "ORAL"
+    },
+    "0121-0766": {
+        "name": "calcium carbonate",
+        "form": "SUSPENSION",
+        "route": "ORAL"
+    },
+    "63940-024": {
+        "name": "extra strength itch relief",
+        "form": "SPRAY",
+        "route": "TOPICAL"
+    },
+    "41250-456": {
+        "name": "nicotine polacrilex",
+        "form": "GUM, CHEWING",
+        "route": "ORAL"
+    }
+}
